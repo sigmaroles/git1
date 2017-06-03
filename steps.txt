@@ -1,0 +1,15 @@
+pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/windows/cpu/tensorflow-1.1.0-cp35-cp35m-win_amd64.whl 
+
+-----
+
+to start using tensorflow:
+1. 
+set path=%path%;G:\condaInstall\Scripts
+
+2. 
+activate tflow1
+
+3. 
+jupyter notebook
+
+and carry on in the browser
